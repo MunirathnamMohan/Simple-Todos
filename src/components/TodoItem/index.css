@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.text-con {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.items {
+}
+.btn {
+  color: #ff0b37;
+  background-color: transparent;
+  border-color: #ff0b37;
+  border-radius: 5px;
+  height: 30px;
+  margin-left: 20px;
+}
